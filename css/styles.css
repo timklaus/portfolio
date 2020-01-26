@@ -1,6 +1,26 @@
+
 .Headline_Img {
   Float: Right;
   margin: 25px;
   width: 120px;
   height: 150px;
 }
+@media screen and (max-width: 768px) {
+  .Headline_Img {
+    Width: 60px;
+    height: 75px;
+  }   
+}
+
+.jumbotron-top-margin-add {
+  margin-top: 30px;
+}
+
+.headline_text_color {
+  color: #7e7e7e;
+}
+
+#timklaus {
+  color: #7e7e7e;
+}
+
