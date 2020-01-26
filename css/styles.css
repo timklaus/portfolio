@@ -34,3 +34,10 @@
 .klausorange {
   color: #F26522;
 }
+.panel-grey {
+  border-color: #7e7e7e;
+}
+.panel-grey > .panel-heading {
+  color: #F26522;
+  background-color: lightgrey;
+  border-color: #7e7e7e;
