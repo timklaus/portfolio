@@ -1,4 +1,6 @@
-
+.darkbackground {
+  background-color: #666666;
+}
 .Headline_Img {
   Float: Right;
   margin: 25px;
@@ -24,3 +26,11 @@
   color: #7e7e7e;
 }
 
+.center-text {
+  text-align: center;
+  font-style: normal;
+}
+
+.klausorange {
+  color: #F26522;
+}
