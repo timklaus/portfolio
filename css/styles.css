@@ -1,3 +1,10 @@
+.offthewall {
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-left: 15px;
+  padding-right:15px;
+}
+
 .darkbackground {
   background-color: #666666;
 }
