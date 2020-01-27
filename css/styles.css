@@ -30,7 +30,8 @@
 }
 
 #timklaus {
-  color: #7e7e7e;
+  font-weight: bolder;
+  color: #F26522;
 }
 
 .center-text {
@@ -48,3 +49,22 @@
   color: #F26522;
   background-color: lightgrey;
   border-color: #7e7e7e;
+}
+.blockquotename {
+  font-style: italic;
+  font-weight: lighter;
+}
+.noitalics {
+  font-style: normal;
+}
+.graduationdate {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 75%;
+}
+.bolder {
+  font-weight: bolder;
+}
+.lighter {
+  font-weight: lighter;
+}
