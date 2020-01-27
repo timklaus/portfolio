@@ -68,3 +68,9 @@
 .lighter {
   font-weight: lighter;
 }
+.verticalspacer20px {
+  height: 20px;
+}
+.indent {
+  text-indent: 10px;
+}
