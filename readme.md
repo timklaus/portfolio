@@ -1,5 +1,5 @@
 # _Tim Klaus' Portfolio Landing Page_
-[timklaus.github.io/portfolio](timklaus.github.io/portfolio)
+[https://timklaus.github.io/portfolio/](https://timklaus.github.io/portfolio/)
 
 #### _*Week 3 Intro To Programming (Evening) individual project submission*, *January 26, 2020*_
 
